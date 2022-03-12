@@ -25,7 +25,7 @@ a {
 }
 /****************** NAVBAR *********************/
 nav {
-    overflow: hidden;
+    overflow: visible;
     background-color: #FFFAE1;
     position:fixed;
     width: 100%;
