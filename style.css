@@ -145,10 +145,3 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
     box-shadow: 4px 4px 0 1px black;
     opacity: 0.5;
 }
-  gem install bundler jekyll
-
-  jekyll nouveau mon-super-site
-
-  cd mon-site-génial
-
-  bundle exec jekyll servir
